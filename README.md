@@ -1,4 +1,4 @@
-# SantiSite.github.io
+# SantiSite
 ### Hi there 👋
 
 Good to see you! My name is Santiago Restrepo, also known into the internet as SantiSite.
