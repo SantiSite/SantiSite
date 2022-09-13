@@ -3,7 +3,7 @@
 
 Good to see you! My name is Santiago Restrepo, also known into the internet as SantiSite.
 
-I'm a full stack developer, proficient using the MongoDB, Express, React, Node, Postgresql, Angular, MySql, Adonis, HTML and CSS.
+I'm a full stack developer, proficient using the MongoDB, Next.Js, Express, React, Node, Postgresql, Angular, MySql, Adonis, HTML and CSS.
 
 Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at Platzi.
 
