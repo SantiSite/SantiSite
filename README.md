@@ -24,7 +24,7 @@ Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at 
   <img src="https://img.shields.io/badge/git%20-%23F05133.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/github%20-%23000.svg?&style=for-the-badge&logo=github&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/mongodb%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/nextjs%20-%2358aa50.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/next.js-000000?&style=for-the-badge&logo=nextjs&logoColor=white" />&nbsp;&nbsp;
 
 
 ### 📚 I am currently learning
