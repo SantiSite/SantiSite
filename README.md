@@ -3,7 +3,11 @@
 
 Good to see you! My name is Santiago Restrepo, also known into the internet as SantiSite.
 
-I'm a full stack developer, proficient using the MongoDB, Next.Js, Express, React, Node, Postgresql, Angular, MySql, Adonis, HTML and CSS.
+I'm a developer certified by Mercado Pago to integrate payment gateways with Checkout Pro. See [certificate](https://www.mercadopago.com.co/developers/panel/certification/cert_a75c0437398911edac310242ac130004)
+
+<img src="https://certificates-images.s3.amazonaws.com/insignia.svg" />
+
+I'm a full stack developer, proficient using the MongoDB, Next.Js, Express, React, Node, Postgresql, Angular, MySql and AdonisJs.
 
 Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at Platzi.
 
@@ -36,6 +40,8 @@ Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at 
 - GraphQL
 - GraphCMS
 - AWS
+- Data Structures
+- Design Patterns
 
 ### 📬 You can contact me on
 <p align='center'>
