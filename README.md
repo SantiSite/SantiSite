@@ -3,7 +3,7 @@
 
 Good to see you! My name is Santiago Restrepo, also known into the internet as SantiSite.
 
-I'm a developer certified by Mercado Pago to integrate payment gateways with Checkout Pro. See [certificate](https://www.mercadopago.com.co/developers/panel/certification/cert_a75c0437398911edac310242ac130004)
+I'm a developer certified by Mercado Pago to integrate payment gateways with Checkout Pro. See [certificate]([https://www.mercadopago.com.co/developers/panel/certification/cert_a75c0437398911edac310242ac130004](https://www.mercadopago.com.co/developers/panel/developer-program/certification/cert_a75c0437398911edac310242ac130004))
 
 <img src="https://certificates-images.s3.amazonaws.com/insignia.svg" />
 
