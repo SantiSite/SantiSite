@@ -7,7 +7,7 @@ I'm a developer certified by Mercado Pago to integrate payment gateways with Che
 
 <img src="https://certificates-images.s3.amazonaws.com/insignia.svg" />
 
-I'm a full stack developer, proficient using the MongoDB, Next.Js, Express, React, Node, Postgresql, Angular, MySql and AdonisJs.
+I'm a full stack developer, proficient using the Golang, MongoDB, Next.Js, Express, React, Node, Postgresql, Angular, MySql and AdonisJs.
 
 Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at Platzi.
 
@@ -36,7 +36,6 @@ Currently, I'm a Web Developer at Mobility Solutions S.A.S and I'm a student at 
 - POO
 - SOLID
 - Algorithms
-- GO
 - GraphQL
 - GraphCMS
 - AWS
